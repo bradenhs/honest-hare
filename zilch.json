@@ -1,0 +1,9 @@
+{
+  "v": 1,
+  "name": "Honest Hare",
+  "avatar": "qiag2lsEseBysecF4",
+  "preferredColor": "forest",
+  "language": "javascript.node",
+  "game": "table-tennis",
+  "run": "node main.js"
+}
